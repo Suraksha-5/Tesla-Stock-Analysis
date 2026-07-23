@@ -102,6 +102,6 @@ After completing this project, students will be able to:
 
 ## Author
 
-**Name:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Name:** Suraksha
 
-**GitHub:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**GitHub:** https://github.com/Suraksha-5
